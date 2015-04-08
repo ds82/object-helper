@@ -2,13 +2,21 @@
 
 Utility to help you to tame your objects
 
-# build
+# devel
+
+First of all install all needed npm modules
+
+```
+npm install
+```
+
+## build
 
 ```
 npm run build
 ```
 
-# tests
+## tests
 
 ```
 npm test
