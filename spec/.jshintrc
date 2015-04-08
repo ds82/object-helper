@@ -1,0 +1,11 @@
+{
+  "node": true,
+  "globals": {
+    "jasmine": false,
+    "it": false,
+    "describe": false,
+    "beforeEach": false,
+    "expect": false
+  }
+
+}
