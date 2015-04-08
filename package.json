@@ -1,12 +1,11 @@
 {
   "name": "object-helper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "jasmine",
     "build": "babel index.es6 > dist/index.js",
-
     "prepublish": "npm test && npm run build"
   },
   "repository": {
