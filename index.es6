@@ -1,5 +1,11 @@
+/**
+ * objectHelper class
+ * @description test
+ */
 class objectHelper {
-
+  /**
+   * @param {object} object - The object to examine
+   */
   constructor(object) {
     this.object = object;
   }

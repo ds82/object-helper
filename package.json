@@ -20,6 +20,8 @@
   "homepage": "https://github.com/ds82/object-helper",
   "devDependencies": {
     "babel": "^5.0.10",
-    "jasmine": "^2.2.1"
+    "ink-docstrap": "^0.5.2",
+    "jasmine": "^2.2.1",
+    "jsdoc": "file:../../../../../var/folders/0p/b7pdm54d26q8db2qsxtxb3z80000gn/T/npm-890-774b68b6/git-cache-51dc6b45ee67/dcb327605eec0f265ba6387cc99d6eb453f42fd6"
   }
 }
