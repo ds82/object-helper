@@ -2,7 +2,7 @@
   "name": "object-helper",
   "version": "0.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jasmine",
     "build": "babel index.es6 > dist/index.js",
